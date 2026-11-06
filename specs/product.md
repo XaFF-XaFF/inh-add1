@@ -49,10 +49,10 @@ Abilities, items, status effects, weather, move priority, special move effects, 
 
 The feature checklists mark implemented and reviewed behaviour. They do not mean every case has been tested on a phone.
 
-Local checks passed: ESLint, TypeScript, 24 logic tests, Android and iOS bundle checks, and a custom-moveset battle using the live API.
+Local checks passed: ESLint, TypeScript, 24 logic tests, Android and iOS bundle checks, and a custom-moveset battle using the live API. A clean installation of committed version `f73ac6d` also passed dependency installation, ESLint, TypeScript and all 24 tests on 6 November 2026. The clean copy started in Expo and served the SDK 58 manifest and iPhone development bundle successfully.
 
-Phone checks are listed in each feature spec. The user confirmed on 6 November 2026 that battle history survives restarts. The native share sheet has not been confirmed in this chat.
+Phone checks are listed in each feature spec. The user confirmed on 6 November 2026 that battle history survives restarts and that the native share sheet opens with the correct battle summary.
 
-The three explanation answers are prepared in [docs/explanation.md](../docs/explanation.md) for the student's review and wording. GitHub issue publication and the actual exported chat history remain separate hand-in steps.
+The three explanation answers are prepared in [docs/explanation.md](../docs/explanation.md) for the student's review and wording. GitHub issue publication remains a separate hand-in step.
 
-A selected conversation record covering the UI improvements, custom movesets and battle animations is saved in [chat-history](../chat-history/ui-movesets-and-battle-animations.md). It is labelled as a manually compiled excerpt.
+The complete recorded conversation has been [exported from the original Codex session](../chat-history/codex-session-01a198d0-f3d8-7861-9211-9caba46b67dd.md). A JSONL companion preserves the tool calls and results. The earlier manually compiled excerpt is also retained and labelled as such. No GitHub issue number is invented for this session.

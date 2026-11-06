@@ -27,4 +27,4 @@ The agent's first battle animation implementation displayed the win message twic
 
 The result now appears in a single banner in [src/app/battle.tsx, line 48](../src/app/battle.tsx#L48). This correction also became a rule in [AGENTS.md, line 53](../AGENTS.md#L53), so future changes should keep only one result heading.
 
-The request and the agent's correction are recorded in [section 4 of the saved chat excerpt](../chat-history/ui-movesets-and-battle-animations.md#4-reviewing-the-result-and-asking-about-learnable-moves).
+The request and the agent's correction are recorded in the [original session transcript](../chat-history/codex-session-01a198d0-f3d8-7861-9211-9caba46b67dd.md#message-msg_01a19911-f702-73b0-93eb-5c6c4b945c7d).

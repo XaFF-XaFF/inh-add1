@@ -27,7 +27,7 @@ Checked items are implemented and reviewed. Phone checks are listed separately.
 ## Phone checks
 
 - [ ] Confirm attack timing, misses, immunity, fainting and leaving during playback on the phone.
-- [ ] Confirm the native share sheet opens and shows the correct result.
+- [x] Confirm the native share sheet opens and shows the correct result. User confirmed sharing works on 6 November 2026.
 
 ## Out of Scope
 
